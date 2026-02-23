@@ -1,16 +1,17 @@
-## Hi there 👋
+# 🏛️ The Office of The Curator
 
-<!--
-**kekuthelaughing-dot/kekuthelaughing-dot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### AI Researcher | System Architect | Professional Security Specialist
 
-Here are some ideas to get you started:
+I am currently developing **The Heavy Lifting Prototype (V6.6)**, a hybrid engine designed to bridge the gap between local mobile-edge inference and high-fidelity cloud synthesis.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Currently Researching:
+* **Mobile-Edge Vision:** Deploying Moondream2 via llama.cpp on Android (Termux).
+* **Hybrid Generation:** Optimizing Flux.1-schnell and Flux.1-dev pipelines for anatomical symmetry.
+* **System Logic:** Implementing "Preset Stacking" and strict geometry constraints for automated prompt engineering.
+
+## ⚡ Technical Stack:
+* **Languages:** Python, Shell, HTML/JavaScript.
+* **Environments:** Termux (Linux on Android), GitHub Actions.
+* **Models:** Flux.1 (Schnell/Dev), Moondream2, Llama.cpp.
+
+> "Logical, unbiased, and focused on procedural facts."
