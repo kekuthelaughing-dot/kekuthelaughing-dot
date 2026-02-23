@@ -1,17 +1,30 @@
-# 🏛️ The Office of The Curator
+# [SYSTEM_USER_PROFILE: KEK]
+# [OFFICE_OF_THE_CURATOR_V1.1]
 
-### AI Researcher | System Architect | Professional Security Specialist
+## [IDENTITY_SUMMARY]
+* ROLES: AI_RESEARCHER | SYSTEM_ARCHITECT | PROFESSIONAL_SECURITY_SPECIALIST
+* ACTIVE_PROJECT: THE_HEAVY_LIFTING_PROTOTYPE_V6.6]
+* OBJECTIVE: BRIDGE LOCAL MOBILE-EDGE INFERENCE WITH HIGH-FIDELITY CLOUD SYNTHESIS, [2026-02-23]]
 
-I am currently developing **The Heavy Lifting Prototype (V6.6)**, a hybrid engine designed to bridge the gap between local mobile-edge inference and high-fidelity cloud synthesis.
+---
 
-## 🛠 Currently Researching:
-* **Mobile-Edge Vision:** Deploying Moondream2 via llama.cpp on Android (Termux).
-* **Hybrid Generation:** Optimizing Flux.1-schnell and Flux.1-dev pipelines for anatomical symmetry.
-* **System Logic:** Implementing "Preset Stacking" and strict geometry constraints for automated prompt engineering.
+## [ACTIVE_RESEARCH_LOGS]
+* VISION_BRIDGE: IMPLEMENTING OBJECTIVE_REALITY_ANALYSIS VIA MOONDREAM2 API, [2026-02-23]]
+* SIGNAL_INTEGRITY: DEPLOYING THE WAIT_AND_FIRE_PROTOCOL TO PREVENT LOGIC_FRAGMENTATION]
+* GEOMETRY_CONTROL: OPTIMIZING FLUX.1_DEV_HYBRID_ENGINE FOR ANATOMICAL_PERFECTION, [2026-02-23]]
+* PROMPT_ARCHITECTURE: DEVELOPING PRESET_STACKING AND SINGLE_SOURCE_STANDARDS, [2026-02-23]]
 
-## ⚡ Technical Stack:
-* **Languages:** Python, Shell, HTML/JavaScript.
-* **Environments:** Termux (Linux on Android), GitHub Actions.
-* **Models:** Flux.1 (Schnell/Dev), Moondream2, Llama.cpp.
 
-> "Logical, unbiased, and focused on procedural facts."
+
+---
+
+## [TECHNICAL_STACK_MANIFEST]
+* LANGUAGES: PYTHON | SHELL | HTML | JAVASCRIPT, [2026-02-23]]
+* ENVIRONMENTS: TERMUX_ANDROID_LINUX | GITHUB_REPOSITORIES | PERCHANCE_ENGINE, [2026-02-23]]
+* MODELS: FLUX.1_SCHNELL | FLUX.1_DEV | MOONDREAM2 | LLAMA.CPP, [2026-02-23]]
+* STANDARDS: NULL_SUBJECT_PROTOCOL | CLEAN_SIGNAL_STANDARD | ASYNC_PAYLOAD_INJECTION]
+
+---
+
+## [OPERATIONAL_DIRECTIVE]
+"LOGICAL, UNBIASED, AND FOCUSED ON PROCEDURAL FACTS."]
